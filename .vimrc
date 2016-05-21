@@ -34,7 +34,7 @@ set hlsearch
 nnoremap <leader><space> :nohlsearch<CR>
 
 " stuff for solarized colorscheme
-set background=light
+set background=dark
 set t_Co=16
 colorscheme solarized
 
